@@ -1,0 +1,6 @@
+casos:
+- 1 ou mais listas nulas;
+- 1 ou mais listas vazias ou iguais a 0 ([0, 0, 0]);
+- entrada negativa;
+- soma não passa carry;
+- soma passa carry (adiciona um dígito (eg. 5+5=10));
